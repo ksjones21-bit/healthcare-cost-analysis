@@ -1,5 +1,5 @@
 # Healthcare Cost Drivers Analysis
-
+A data-driven exploration of healthcare cost patterns to support financial decision-making and resource planning.
 ## Overview
 This project analyzes hospital billing data to identify key drivers of healthcare costs across medical conditions, admission types, and patient characteristics.
 
